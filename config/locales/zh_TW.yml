@@ -161,7 +161,7 @@ zh_TW:
         username: 使用者帳號
       title: 管理使用者
   add_to_google_calendar: "添加到Google日曆"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Talk
   bigbluebutton_exception: 哎呀，啟動會議出錯！
   cancel: 取消
   cookies:
@@ -194,7 +194,7 @@ zh_TW:
       contact_admin: 請聯繫管理員。
       continue: 還是繼續使用 1.0吧。
       notice: >
-        Greenlight 遇到資料庫遷移錯誤。<br>可能因為您還沒有更新到 Greenlight 2.0。
+        Servo 遇到資料庫遷移錯誤。<br>可能因為您還沒有更新到 Servo 2.0。
       upgrade: 告訴我如何升級到 2.0!
       version: 我們已經發佈了新版Greenlight，但您的資料庫不相容。
     messages:
@@ -235,7 +235,7 @@ zh_TW:
     email: Email
     submit: 提交
   go_back: 返回
-  greenlight: Greenlight
+  greenlight: Servo
   header:
     all_recordings: 所有錄影
     dropdown:
@@ -296,7 +296,7 @@ zh_TW:
           admins_link: 訪問網站管理頁面
           subject: 新Greenlight使用者註冊
           username: "使用者註冊了名稱%{name} 和電子郵箱 %{email}."
-        subject: 邀請加入 BigBlueButton
+        subject: 邀請加入 Talk
         username: "您的使用者帳號是 %{email}."
       password_reset:
         title: '重置密碼'

@@ -131,13 +131,13 @@ tr:
     room_configuration:
       title: Sınıf Yapılandırması
       mute:
-        info: BigBlueButton görüşmesine katılan kullanıcıların sesini otomatik olarak kapatır
+        info: Talk görüşmesine katılan kullanıcıların sesini otomatik olarak kapatır
       require_moderator:
-        info: BigBlueButton görüşmesinin sorumlusuna bir kullanıcının katılmak istediğini bildirir. Kullanıcı kabul edilirse görüşmeye katılabilir.
+        info: Talk görüşmesinin sorumlusuna bir kullanıcının katılmak istediğini bildirir. Kullanıcı kabul edilirse görüşmeye katılabilir.
       allow_any:
         info: İsteyen her kullanıcının istediği zaman görüşmeye katılabilmesini sağlar. Varsayılan olarak yalnız oda sahibi görüşmeyi başlatabilir.
       all_moderator:
-        info: BigBlueButton görüşmesine katılan tüm kullanıcılara sorumlu yetkileri verir.
+        info: Talk görüşmesine katılan tüm kullanıcılara sorumlu yetkileri verir.
       options:
         disabled: Etkin Değil
         enabled: Her Zaman Etkin
@@ -210,9 +210,9 @@ tr:
       contact_admin: "Yönetici değilseniz, lütfen bir tane ile iletişime geçin."
       continue: 1.0 sürümü kullanmaya devam etmek istiyorum.
       notice: >
-        Sistem bir veritabanı taşıma hatasıyla karşılaştı.<br>Bunun nedeni Greenlight 2.0 sürümünü kullanmadığınızdan olabilir. 2.0 sürümüne nasıl yükselteceğimi göster!
+        Sistem bir veritabanı taşıma hatasıyla karşılaştı.<br>Bunun nedeni Servo 2.0 sürümünü kullanmadığınızdan olabilir. 2.0 sürümüne nasıl yükselteceğimi göster!
       upgrade: "2,0 Sürümüne nasıl yükselteceğimi göster!"
-      version: "Greenlight'ın yeni bir sürümünü çıkardık, ancak veritabanınız uyumlu değil."
+      version: "Servo'ın yeni bir sürümünü çıkardık, ancak veritabanınız uyumlu değil."
     messages:
       blank: Boş bırakılamaz
       too_short: Çok kısa
@@ -223,7 +223,7 @@ tr:
       inclusion: listeye dahil değil
     no_provider:
       message: Erişmeye çalıştığınız site etkin değil
-      help: Greenlight'ı kurmak için lütfen sistem yöneticinize başvurun
+      help: Servo'ı kurmak için lütfen sistem yöneticinize başvurun
     not_found:
       message: Üzgünüz! Aradığınız sayfa mevcut değil.
       help: "Kaldırılması mümkün mü?"
